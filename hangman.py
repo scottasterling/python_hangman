@@ -175,7 +175,7 @@ def play_hangman():
             print("The word was:",target_word)
             menu_loop()
 
-    if target_word == '_' * length:
+    if temp == '_' * length:
         print("Congrats! You have guessed the word correctly!")
         menu_loop()
     elif count != limit:
