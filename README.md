@@ -10,3 +10,5 @@ The rules are simple!
 * if you get absolutely stuck, then and only then you can look through my source code, but you must note that you did.
 * you should try to use python exclusively
 * and last of all... HAVE FUN!
+
+Full disclosure. I started this project by looking at a tutorial, and at some point decided that I could create a much better version, so yes I did initially look at someone else's code, but much of it has been changed.
